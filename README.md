@@ -22,7 +22,8 @@ To analyze financial transaction data and forecast future transaction trends usi
 ---
 
 ### 📸 Dashboard Preview
-![Dashboard](Dashboard_Snapshot.png)
+<img width="1920" height="1007" alt="image" src="https://github.com/user-attachments/assets/29ccf6d2-a625-41bf-b517-7f81133f9f58" />
+
 
 ---
 
