@@ -1,11 +1,11 @@
-# 💹 Financial Data Analysis & Forecasting (Python + Tableau)
+# Financial Data Analysis & Forecasting (Python + Tableau)
 
-### 🎯 Objective
+###  Objective
 To analyze financial transaction data and forecast future transaction trends using **Python** and **Tableau**.
 
 ---
 
-### 🧰 Tools & Libraries
+###  Tools & Libraries
 - Python: `Pandas`, `Matplotlib`, `Prophet`
 - Tableau: Dashboard & Trend Visualization
 - Jupyter Notebook
@@ -13,21 +13,21 @@ To analyze financial transaction data and forecast future transaction trends usi
 
 ---
 
-### 📊 Key Insights
-- 📈 Consistent transaction growth post-2018  
-- 🔍 Forecasts show upward trends for next 6 months  
-- 💰 Identified anomalies and transaction peaks using Prophet  
-- 🧮 Combined Tableau dashboards for visual validation  
+###  Key Insights
+-  Consistent transaction growth post-2018  
+-  Forecasts show upward trends for next 6 months  
+-  Identified anomalies and transaction peaks using Prophet  
+-  Combined Tableau dashboards for visual validation  
 
 ---
 
-### 📸 Dashboard Preview
+### Dashboard Preview
 <img width="1920" height="1007" alt="image" src="https://github.com/user-attachments/assets/29ccf6d2-a625-41bf-b517-7f81133f9f58" />
 
 
 ---
 
-### 📂 Files Description
+###  Files Description
 | File | Description |
 |------|--------------|
 | `Financial_Analysis_Forecasting.ipynb` | Data analysis, forecasting, and Prophet model |
@@ -36,7 +36,7 @@ To analyze financial transaction data and forecast future transaction trends usi
 
 ---
 
-### 📅 Date
+### Date
 **06/11/2025**
 
 ---
