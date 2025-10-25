@@ -41,7 +41,7 @@ To analyze financial transaction data and forecast future transaction trends usi
 
 ---
 
-### 🧠 Learnings
+###  Learnings
 - Integrated predictive analytics using Prophet  
 - Visualized time-series forecasts in Tableau  
 - Enhanced storytelling through data visualization  
